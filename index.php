@@ -1,6 +1,6 @@
 <?php
 
-$TOKEN = "8350096128:AAEcx8kB1yhEI3rbx-ySYSyCoR9dtuhKNvs";
+$TOKEN = "ваш токен";
 $API = "https://api.telegram.org/bot$TOKEN";
 
 // получаем апдейт
